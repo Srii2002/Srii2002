@@ -6,9 +6,9 @@
 </head>
 <body style="background-color: #f4f4f9; color: #2c3e50; font-family: 'Lato', sans-serif;">
 
-<h2 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Srikanth !!!;" />
-</h2>
+<h1 align="center" class="header-title" style="font-family: 'Montserrat', sans-serif; color: white; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3); white-space: nowrap; overflow: hidden; border-right: 3px solid;">
+    Hi 👋, I'm Srikanth
+  </h1>
   <h3 align="center" class="sub-header" style="font-family: 'Lato', sans-serif; color: #7f8c8d;">An Enthusiastic Full Stack developer</h3>
 
   <p align="center">
