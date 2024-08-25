@@ -6,9 +6,9 @@
 </head>
 <body style="background-color: #f4f4f9; color: #2c3e50; font-family: 'Lato', sans-serif;">
 
-  <h1 align="center" class="header-title" style="font-family: 'Montserrat', sans-serif; color: white; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3); white-space: nowrap; overflow: hidden; border-right: 3px solid;">
-    Hi 👋, I'm Srikanth
-  </h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Srikanth !!!;" />
+</h1>
   <h3 align="center" class="sub-header" style="font-family: 'Lato', sans-serif; color: #7f8c8d;">An Enthusiastic Full Stack developer</h3>
 
   <p align="center">
@@ -126,14 +126,10 @@
   </p>
 
   <div class="footer" align="center">
-    <h3>Footer</h3>
-    <p>
-      <img src="https://media.giphy.com/media/j5pUwhPSUqB2w/giphy.gif" width="50px" style="animation-name: pulse; animation-duration: 1s; animation-fill-mode: both; animation-iteration-count: infinite;" /> 
-      Thank you for visiting my profile! 
-      <img src="https://media.giphy.com/media/j5pUwhPSUqB2w/giphy.gif" width="50px" style="animation-name: pulse; animation-duration: 1s; animation-fill-mode: both; animation-iteration-count: infinite;" />
-    </p>
+    <h3 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
+</h3>
   </div>
 
 </body>
 </html>
-
